@@ -7,3 +7,13 @@
 * **Planet Scale** : Designed on the same principles that allows Google to run billions of containers a week, Kubernetes can scale without increasing your ops team.
 * **Never Outgrow:** Whether testing locally or running a global enterprise, Kubernetes flexibility grows with you to deliver your applications consistently and easily no matter how complex your need is.
 * **Run K8s Anywhere:** Kubernetes is open source giving you the freedom to take advantage of on-premises, hybrid, or public cloud infrastructure, letting you effortlessly move workloads to where it matters to you.
+* Automatic rollouts & rollbacks
+* Strorage Orchestration
+* Automatic bin packing
+* IPv4 and IPv6 dual stack
+* Self healing
+* Service discovery & load balancing
+* Secret and Configuration management
+* Batch execution
+* Horizontal Scaling
+* Designed for extensibility
